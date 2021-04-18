@@ -10,8 +10,6 @@
 
 To install **Happy Frontend**, follow the next steps:
 
-### Happy Frontend:
-
 In your terminal:
 
 ```
