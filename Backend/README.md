@@ -36,15 +36,14 @@ Name: Create Orphanage
 URL: http://localhost:xxxx/orphanages
 Method: POST
 Body: Multipart Form:
-
-name:
-latitude(can use google maps):
-longitude(can use google maps):
-about:
-instructions:
-opening_hours:
-open_on_weekends:
-images:
+                      name:
+                      latitude(can use google maps):
+                      longitude(can use google maps):
+                      about:
+                      instructions:
+                      opening_hours:
+                      open_on_weekends:
+                      images:
 ```
 
 ```
