@@ -10,8 +10,6 @@
 
 To install **Happy Backend**, follow the next steps:
 
-### Happy Backend:
-
 In your terminal:
 
 ```
