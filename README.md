@@ -83,7 +83,7 @@ npm install
 ```
 # Run the project
 npm run start
-
+```
 ## 📝 Licença
 
 This project is license. Check the file [LICENSE](LICENSE.md) for more details
