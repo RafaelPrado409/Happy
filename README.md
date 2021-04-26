@@ -13,7 +13,7 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-07405E?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-43853D?style=for-the-badge&logo=leaflet&logoColor=white)
 
-<img src="https://i.imgur.com/X64Qmvn.png?1" alt="happy" />
+<img src="https://i.imgur.com/X64Qmvn.png?1" alt="Happy" />
 
 ### You can view the remaining images in my [Figma](https://www.figma.com/file/N7wRAtrybG1LB39SL4nv95/Happy-Rafael%60s?node-id=0%3A1)
 
